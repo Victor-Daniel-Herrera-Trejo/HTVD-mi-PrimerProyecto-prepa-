@@ -9,4 +9,4 @@ Un proyecto básico de ejemplo para aprender Git y GitHub
 - **Carrera:** Programación (Preparatoria)  
 - **Correo electrónico:** 23308060610149@cetis61.edu.mx  
 - **Foto:**  
-  ![Mi foto](ruta/de/tu/foto.jpg)
+  ![Mi foto](MiFoto.jpg)
